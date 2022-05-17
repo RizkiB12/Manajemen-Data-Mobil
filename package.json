@@ -1,0 +1,25 @@
+{
+  "name": "manajemen-data-mobil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RizkiB12/Manajemen-Data-Mobil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RizkiB12/Manajemen-Data-Mobil/issues"
+  },
+  "homepage": "https://github.com/RizkiB12/Manajemen-Data-Mobil#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.19.1"
+  }
+}
